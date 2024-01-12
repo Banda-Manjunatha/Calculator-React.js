@@ -76,4 +76,7 @@ If you would like to contribute to the project, follow these steps:
     ```
 5. **Open a pull request on GitHub.**
 
-Thank you for using the React Calculator!
+## Thank You and Best of Luck!
+
+Thank you for checking out the React Calculator project! Your interest and support are greatly appreciated. Best of luck with your coding endeavors!
+
