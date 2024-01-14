@@ -45,7 +45,7 @@ Follow these steps to clone and set up the project locally:
   ```bash
   npm start
   ```
-5.**Open the application in your preferred browser:**
+5. **Open the application in your preferred browser:**
 - Visit http://localhost:3000 in your web browser.
 
 ## Usage
